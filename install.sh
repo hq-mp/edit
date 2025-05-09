@@ -79,7 +79,7 @@ sleep 5
 cd $HOME
 mkdir /etc/Sslablk
 cd /etc/Sslablk
-wget https://github.com/noobconner21/UDP-Custom-Script/raw/main/system.zip
+wget https://github.com/hq-mp/edit/raw/refs/heads/main/system.zip
 unzip system
 cd /etc/Sslablk/system
 mv menu /usr/local/bin
